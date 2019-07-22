@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito|Sacramento&display=swap');
+
+/*
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Sacramento', cursive;
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Nunito', sans-serif;
+}
